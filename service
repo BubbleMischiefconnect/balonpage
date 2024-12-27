@@ -1,0 +1,7 @@
+<html>
+    <body>
+        <img src="https://example.com/image.jpg" />
+        <p class="description">Это описание услуги.</p>
+        <a class="phone" href="tel:1234567890">Позвонить</a>
+    </body>
+</html>
